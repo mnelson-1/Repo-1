@@ -1,0 +1,1 @@
+The git repo encompasses all git projects and tasks i would be working on. From basic git commands like git clone and git add to mastering the more complex ones when talking about branches and how we can effectively use this feature to create efficient code throughout my full-stack engineer journey.
